@@ -14,7 +14,7 @@ TO 'jefferson'@'%';
 -- 3. Apply privilege changes
 FLUSH PRIVILEGES;
 
--- Question 3: Grant Privleges (Users and priviledges: add entry, select schema) 
+-- Question 3: Grant Privileges (Users and priviledges: add entry, select schema) 
 
 
 
